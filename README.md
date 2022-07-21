@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f5rcbh
+- 👋 Hi, I’m khalid
 - 👀 I’m interested in CSS and JavaScript
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me f6807@hotmail.com
