@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/5rcbh" target="blank"><img src="https://img.shields.io/twitter/follow/5rcbh?logo=twitter&style=for-the-badge" alt="5rcbh" /></a> </p>
 
-- 🔭 I’m currently working on [[Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub/base-apparel-coming-soon-page-H8_51lROPI)](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1/hub/intro-component-with-signup-form-MOigmvyboa)
+- 🔭 I’m currently working on **Intro component with sign-up form**
 
 - 🌱 I’m currently learning **React and Sass**
 
